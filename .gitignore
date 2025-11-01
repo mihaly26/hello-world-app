@@ -4,3 +4,4 @@ build/
 local.properties
 node_modules/
 .keystore
+target/
